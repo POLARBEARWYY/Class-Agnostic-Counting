@@ -22,7 +22,8 @@ Implement of Class-Agnostic Counting Papers (using pytorch method)
 
 
 
-# 文章原文（已上传）
+# 文章原文
+## PDF：https://www.researchgate.net/publication/328685610_Class-Agnostic_Counting
 ### 获取更多文章解读以及实现细节，请移步本人的简书：https://www.jianshu.com/nb/32949594
 
 若本人有理解不准确或者代码不完善处，欢迎指出；也期待对此文的实现感兴趣的人共同探讨。
