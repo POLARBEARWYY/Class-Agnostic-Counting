@@ -14,6 +14,9 @@ Implement of Class-Agnostic Counting Papers (using pytorch method)
 # 文中所使用算法
 ## 在Resnet的基础上，调整后实现的GMN网络。 
 
+# 效果图：
+
+
 # 文章原文（已上传）
 ### 获取更多文章解读以及实现细节，请移步本人的简书：https://www.jianshu.com/nb/32949594
 
