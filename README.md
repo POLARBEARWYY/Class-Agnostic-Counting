@@ -16,6 +16,10 @@ Implement of Class-Agnostic Counting Papers (using pytorch method)
 
 # 效果图：
 ![img1](https://github.com/POLARBEARWYY/Class-Agnostic-Counting/blob/master/output%26heatmap1.PNG)
+![img2]()
+![img3]()
+![img4]()
+
 
 
 # 文章原文（已上传）
