@@ -1,5 +1,5 @@
 # Class-Agnostic-Counting
-Reproduction of Class-Agnostic Counting Papers (using pytorch method) 
+Implement of Class-Agnostic Counting Papers (using pytorch method) 
 # Requirements
  - Python3
  - numpy
@@ -13,4 +13,9 @@ Reproduction of Class-Agnostic Counting Papers (using pytorch method)
 
 # 文中所使用算法
 ## 在Resnet的基础上，调整后实现的GMN网络。 
+
+# 文章原文（已上传）
+### 获取更多文章解读以及实现细节，请移步本人的简书：https://www.jianshu.com/nb/32949594
+
+如发现不好的地方，欢迎讨论。
 
